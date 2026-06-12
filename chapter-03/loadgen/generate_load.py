@@ -13,8 +13,10 @@ from psycopg2 import sql, Error
 import uuid
 
 # CONFIG
-users_seed_count = 10000
-item_seed_count = 1000
+ 
+item_seed_count = 1000      # number of items to seed
+users_seed_count = 1000     # number of users to seed
+
 
 item_inventory_min = 1000
 item_inventory_max = 5000
