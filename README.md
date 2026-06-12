@@ -50,23 +50,12 @@ For the resource requirements, we recommend:
 - **Memory:** Minimum 8GB RAM (16GB or more recommended, especially for projects involving Apache Spark)
 - **Storage:** At least 20GB of free disk space
 
-### Project Code Repository
-
-All code for the projects discussed in this book is available in the accompanying GitHub repository.
-
-To clone the repository using a Git client:
-
-```bash
-https://github.com/Apress/Practical-Data-Engineering-with-Apache-Projects
-```
-
-Alternatively, you can download the code as a ZIP file.
 
 The repository is structured to optimize your learning experience, with separate folders organized by chapter. 
 
 ```bash
 .
-├── chapter-02
+├── Implementing the Data Lakehouse (Chapter 02)
 ├── chapter-03
 ├── chapter-04
 ├── chapter-05
