@@ -56,7 +56,7 @@ The repository is structured to optimize your learning experience, with separate
 ```bash
 .
 ├── Implementing the Data Lakehouse (Chapter 02)
-├── chapter-03
+├── ETL Pipeline with Apache Spark (chapter-03)
 ├── chapter-04
 ├── chapter-05
 ├── chapter-06
