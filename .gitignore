@@ -4,3 +4,5 @@ DS_Store/
 # Spark JARs (large binaries — download separately, see README)
 **/spark/jars/*.jar
 **/jars/*.jar
+aws-java-sdk-bundle-*.jar
+hadoop-aws-*.jar
